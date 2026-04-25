@@ -1,4 +1,4 @@
-企業評価自動化ツール
+AIハイブリット企業評価ツール
 
 AI × Rule-based Hybrid Company Evaluation Tool for Job Hunting
 
