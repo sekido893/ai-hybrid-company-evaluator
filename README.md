@@ -12,6 +12,7 @@ AI × Rule-based Hybrid Company Evaluation Tool for Job Hunting
 
 Excel を中心に完結するため、操作がシンプルで扱いやすく、 AI の客観性と人間の判断を両立した企業評価が可能になります。
 
+
 🧩 Mode1：Excel テンプレート自動生成（初期化）
 
 Mode1 は 最初の1回だけ使う、または 台帳をリセットしたいときに使うモードです。
@@ -124,9 +125,11 @@ wb.save(file_path)
 
 print(f"台帳を作り直しました: {file_path}")
 
+
 🚀 Mode2：AI × 補正ロジックによる企業評価（通常運用）
 
 Mode2 は 普段使うメイン機能です。
+
 
 🧠 ① ChatGPT API による暫定評価
 
@@ -222,6 +225,7 @@ df.at[idx, "更新日時"] = datetime.now()
 
 
 df.to_excel(file_path, index=False)
+
 
 🎯 特徴企業名を入力するだけで AI が暫定評価を生成
 
