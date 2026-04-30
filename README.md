@@ -1,4 +1,4 @@
-AI × Rule-based Hybrid Company Evaluation Tool
+# AI × Rule-based Hybrid Company Evaluation Tool
 
 ★概要★  
 本プロジェクトは、就職活動における企業研究を効率化するために開発した、 AIによる一次評価と人間による補正判断を組み合わせた企業評価ツールです。  
