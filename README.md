@@ -98,4 +98,4 @@ Excelによる可視化と管理,
 Mode1は初回のみ使用,
 Mode2が日常運用の中心,
 Excelは保存して閉じてから実行,
-OpenAI APIキーの設定が必要
+OpenAI APIキーの設定が必要,
