@@ -1,4 +1,4 @@
-AI × Rule-based Hybrid Company Evaluation Tool for Job Hunting
+AI × Rule-based Hybrid Company Evaluation Tool
 
 ★概要★  
 本プロジェクトは、就職活動における企業研究を効率化するために開発した、 AIによる一次評価と人間による補正判断を組み合わせた企業評価ツールです。  
@@ -15,7 +15,7 @@ AI × Rule-based Hybrid Company Evaluation Tool for Job Hunting
 ・Mode2が読み込むフォーマットを保証    
 ＜出力列＞  
 企業名  
-再評価フラグ   
+再評価    
 業種（AI / 補正）    
 安定性（AI / 補正）    
 年収（AI / 補正）  
@@ -77,11 +77,11 @@ AIツール/
 ├── data.xlsx  
 
 💻【技術スタック】  
-Python 3.x,  
-pandas,  
-openpyxl,  
-OpenAI API,  
-Excel,  
+Python 3.x  
+pandas  
+openpyxl    
+OpenAI API    
+Excel    
 
 🎯【設計思想】  
 
